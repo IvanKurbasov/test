@@ -1,1 +1,1 @@
-"Vvodim elementy massiva i nahodim maksimum" 
+"Vvodim elementy massiva i nahodim minimum" 
