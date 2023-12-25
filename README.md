@@ -1,1 +1,1 @@
-"Find max of array" 
+"Vvodim elementy massiva i nahodim maksimum" 
